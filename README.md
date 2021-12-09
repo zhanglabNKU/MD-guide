@@ -1,7 +1,7 @@
-A Medical Image Fusion Method Guided by Multi-focus Processing Framework
+A Two-level Dynamic Adaptive Network for Medical Image Fusion
 ====
 
-Code of A Medical Image Fusion Method Guided by Multi-focus Processing Framework for image fusion tasks, including medical image fusion (CT-MRI, PET-MRI), and multi-focus image fusion.
+Code of A Two-level Dynamic Adaptive Network for Medical Image Fusion for image fusion tasks, including medical image fusion (CT-MRI, PET-MRI), and multi-focus image fusion.
 
 
 Requirements
